@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Bootcamp3" />
         <module name="BootcampEmptyProject" />
+        <module name="Bootcamp3Homework-TDD" />
       </profile>
     </annotationProcessing>
   </component>
